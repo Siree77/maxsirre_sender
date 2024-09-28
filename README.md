@@ -45,27 +45,30 @@ maxsirre-sender/ ├── config.json ├── emails.txt ├── maxsirre_s
 2. **Install Dependencies**
 
 
-To install the required dependencies, run the following command:
+**To install the required dependencies, run the following command:**
 
 ```bash
 pip install -r requirements.txt
+```
+**This script utilizes only standard Python libraries, so no additional installations are required. However, ensure your Python environment is up-to-date.**
 
-    This script utilizes only standard Python libraries, so no additional installations are required. However, ensure your Python environment is up-to-date.
-
-    ```bash
+    
     python3 --version
-    ```
+    
 
-    If you don't have Python 3 installed, follow the instructions [here](https://www.python.org/downloads/).
+**If you don't have Python 3 installed, follow the instructions [here](https://www.python.org/downloads/).**
 
 3. **Configure SMTP Settings**
 
-    - Open `config.json` in your preferred text editor.
-    - Fill in your SMTP details.
+**- Open `config.json` in your preferred text editor.**
+**- Fill in your SMTP details.**
     - **Leave the `password` field empty** to be prompted securely at runtime.
-
-    ```json
-    {
+    
+**config.json**
+```
+nano config.json
+```
+     {
         "smtp_server": "smtp.eample.email",
         "port": 465,
         "from_email": "eample@eample.org",
@@ -76,23 +79,27 @@ pip install -r requirements.txt
         "message": "TTXV text message.",
         "content_type": "html"
     }
-    ```
+    
 
 4. **Prepare the Email List**
 
     - Open `emails.txt` and add the recipient email addresses, one per line.
-
-    ```plaintext
-    # Add recipient emails, one per line
+```
+nano emails.txt
+```
+    
+    
     example1@example.com
     example2@example.com
-    ```
+    
 
 5. **Customize the HTML Message**
 
     - Open `message.html` and customize the HTML content as desired.
-
-    ```html
+ ```
+nano message.html
+```
+    html
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -144,7 +151,7 @@ pip install -r requirements.txt
         </div>
     </body>
     </html>
-    ```
+    
 
 ---
 
@@ -154,7 +161,7 @@ pip install -r requirements.txt
 
 #### 📱 Termux (Android)
 
-1. **Install Termux from [Google Play Store](https://play.google.com/store/apps/details?id=com.termux) or [F-Droid](https://f-droid.org/en/packages/com.termux/).**
+1. **Install Termux from [Github](https://github.com/termux/termux-app/releases) or [F-Droid](https://f-droid.org/en/packages/com.termux/).**
 
 2. **Update and Install Python**
 
@@ -392,7 +399,7 @@ List of failed emails:
 
 #### 📱 Termux (Android)
 
-1. **Install Termux from [Google Play Store](https://play.google.com/store/apps/details?id=com.termux) or [F-Droid](https://f-droid.org/en/packages/com.termux/).**
+1. **Install Termux from [Github ](https://github.com/termux/termux-app/releases) or [F-Droid](https://f-droid.org/en/packages/com.termux/).**
 
 2. **Update and Install Python**
 
