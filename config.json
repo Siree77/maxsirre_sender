@@ -1,0 +1,11 @@
+{
+    "smtp_server": "smtp server",
+    "port": 465,
+    "from_email": "emailofsmtp",
+    "username": "emailofsmtp",
+    "password": "emailpassword",
+    "use_tls": true,
+    "subject": "TTXV",
+    "message": "TTXV text message.",
+    "content_type": "html"
+}
