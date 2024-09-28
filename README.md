@@ -66,10 +66,10 @@ pip install -r requirements.txt
 
     ```json
     {
-        "smtp_server": "smtp.titan.email",
+        "smtp_server": "smtp.eample.email",
         "port": 465,
-        "from_email": "support@calkinslawfirm.org",
-        "username": "support@calkinslawfirm.org",
+        "from_email": "eample@eample.org",
+        "username": "eample@eample.org",
         "password": "",
         "use_tls": true,
         "subject": "TTXV",
