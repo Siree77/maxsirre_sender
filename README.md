@@ -1,6 +1,6 @@
 # 📧 Maxsirre Sender
 
-![Maxsirre Sender Banner](https://github.com/yourusername/maxsirre-sender/raw/main/banner.png)
+![Maxsirre Sender Banner](https://github.com/Siree77/maxsirre_sender/raw/main/banner.png)
 
 **Maxsirre Sender** is a powerful and user-friendly Python script designed to send bulk emails using SMTP. Whether you're conducting marketing campaigns, sending newsletters, or managing large-scale communications, Maxsirre Sender streamlines the process, making it efficient and secure. 🔥
 
@@ -38,7 +38,7 @@ maxsirre-sender/ ├── config.json ├── emails.txt ├── maxsirre_s
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/maxsirre-sender.git
+    git clone https://github.com/Siree77/maxsirre_sender.git
     cd maxsirre-sender
     ```
 
@@ -166,7 +166,7 @@ pip install -r requirements.txt
 3. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/maxsirre-sender.git
+    git clone https://github.com/Siree77/maxsirre_sender.git
     cd maxsirre-sender
     ```
 
@@ -192,7 +192,7 @@ pip install -r requirements.txt
 4. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/maxsirre-sender.git
+    git clone https://github.com/Siree77/maxsirre_sender.git
     cd maxsirre-sender
     ```
 
@@ -282,7 +282,7 @@ List of failed emails:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/maxsirre-sender.git
+    git clone https://github.com/Siree77/maxsirre_sender.git
     cd maxsirre-sender
     ```
 
@@ -404,7 +404,7 @@ List of failed emails:
 3. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/maxsirre-sender.git
+    git clone https://github.com/Siree77/maxsirre_sender.git
     cd maxsirre-sender
     ```
 
@@ -430,7 +430,7 @@ List of failed emails:
 4. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/maxsirre-sender.git
+    git clone https://github.com/Siree77/maxsirre_sender.git
     cd maxsirre-sender
     ```
 
@@ -520,7 +520,7 @@ List of failed emails:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/maxsirre-sender.git
+    git clone https://github.com/Siree77/maxsirre_sender.git
     cd maxsirre-sender
     ```
 
@@ -642,7 +642,7 @@ List of failed emails:
 3. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/maxsirre-sender.git
+    git clone https://github.com/Siree77/maxsirre_sender.git
     cd maxsirre-sender
     ```
 
@@ -668,7 +668,7 @@ List of failed emails:
 4. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/maxsirre-sender.git
+    git clone https://github.com/Siree77/maxsirre_sender.git
     cd maxsirre-sender
     ```
 
